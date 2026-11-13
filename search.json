@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Election 2026",
+    "title": "Texas 2026 Election Explorer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "★ November 3, 2026 General Election · All 254 Counties ★\n\n\nStatewide, district, and neighborhood precinct results across Texas, styled in pastel red, white, and blue. Switch between geography tabs below to explore results by County, Congressional District, State House District, and Voting Precinct.\nGovernor · Gina Hinojosa (D)5,230,78952.8% statewide · 1 counties wonGovernor · Greg Abbott (R)4,524,52745.7% statewide · 0 counties wonU.S. Senate · James Talarico (D)5,444,98255.1% statewide · 1 counties wonU.S. Senate · Ken Paxton (R)4,249,37343.0% statewide · 0 counties wonStatewide Turnout · 254 Counties9.91M Votes9,900 precincts across Texas"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#interactive-texas-map-explorer",
+    "href": "index.html#interactive-texas-map-explorer",
+    "title": "Texas 2026 Election Explorer",
+    "section": "Interactive Texas Map Explorer",
+    "text": "Interactive Texas Map Explorer\nChoose a tab below to divide Texas by County, U.S. Congressional District, State House District, or Voting Precinct. Every map adjusts to that geography level with 100% of Texas shaded in pastel blue (Democratic lead) or pastel red (Republican lead).\n\nBy County (254)By Congressional District (38)By State House District (150)By Region (7 Regions)By Voting Precinct\n\n\nAll 254 Texas counties colored by 2026 vote margin. Use the toggle in the top-right corner of the map to flip between Governor and U.S. Senate.\n\n\n\n\n\n\n\n\nAll 38 Texas U.S. House districts, shaded by the 2026 Congressional vote in each district (14 Democratic vs. 24 Republican seats).\n\n\n\n\n\n\n\n\nAll 150 Texas State Representative districts, shaded by each district’s 2026 State House contest (83 Democratic vs. 67 Republican districts). Zoom into DFW, Houston, Austin, or San Antonio to inspect urban legislative districts!\n\n\n\n\n\n\n\n\nAll 254 counties aggregated into 7 major Texas regions — comparing urban metro powerhouses (DFW, Greater Houston, Central Texas, Alamo / San Antonio, and South Texas & RGV) with East Texas and West Texas & Panhandle. Use the top-right toggle to switch between Governor and U.S. Senate.\n\n\n\n\n\n\n\n\nClick any metro button below to zoom straight into neighborhood voting precincts across Texas’s 10 largest urban counties, backed by countywide results across all 254 counties so the entire state stays colored red or blue.\n\nJump to area: All Texas Houston & Fort Bend DFW (Dallas · Tarrant · Denton) Austin & Williamson San Antonio (Bexar) El Paso Rio Grande Valley (Hidalgo)\n\n\n\n\n\n\n\n\n\n\n\nSources: Texas Secretary of State 254-county November 2026 General Election returns (tx-sos/county-election-returns-2026) & OpenData 10-county precinct returns (opendata/tx-county-precinct-results-2026-general). Use the top navigation tabs (County Margins, Voting Methods, and Results Table) to explore detailed charts and county breakdowns."
   }
 ]
